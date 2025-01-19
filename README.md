@@ -1,6 +1,4 @@
 
-Aquí tienes un ejemplo de un README bien diseñado para tu repositorio de LeetCode en Python. Puedes personalizarlo según tus preferencias:
-
 🚀 Python LeetCode Solutions
 --------------------------------------------------------------------------------
 ¡Bienvenido a mi repositorio de LeetCode en Python! Aquí encontrarás mis soluciones a problemas de LeetCode organizadas por dificultad y etiquetas. También incluyo algunos problemas sin solución para que otros puedan practicar o colaborar. 😊

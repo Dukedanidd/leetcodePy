@@ -5,6 +5,11 @@
 """
 
 def sum(lista):
+    """La funcion espera una lista de numeros y lo que hara sera sumar cada uno de los numeros que existan
+
+    Args:
+        lista ([type]): [description]
+    """
     result = 0
     for n in lista:
         result = result + (n)
@@ -15,6 +20,11 @@ def sum(lista):
 sum([1,2,3])
 
 def mult(lista):
+    """La funcion espera una lista de numeros y lo que hara sera multiplicar cada uno de los numeros que existan
+
+    Args:
+        lista ([type]): [description]
+    """
     result = lista[0]
     i = 1
     while i in range(1, len(lista)):

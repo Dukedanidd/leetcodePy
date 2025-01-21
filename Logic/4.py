@@ -5,12 +5,12 @@
         Si es divisible por 5, imprime "Buzz".
         Si es divisible por ambos, imprime "FizzBuzz".
 """
-for i in range(1, 101):
-    if i % 3 == 0  and i % 5 == 0:
+for num in range(1, 101):
+    if num % 3 == 0  and num % 5 == 0:
         print('FizzBuzz')
-    elif i % 3 == 0:
+    elif num % 3 == 0:
         print('Fizz')
-    elif i % 5 == 0:
+    elif num % 5 == 0:
         print('Buzz')
     else:
-        print(i)
+        print(num)
